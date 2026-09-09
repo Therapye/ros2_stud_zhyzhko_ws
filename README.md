@@ -86,9 +86,9 @@ sudo docker run -it --rm --privileged -v /dev:/dev --net=host microros/micro-ros
 
 ### Дослідження системи через ROS 2 CLI (етап 5)
 
-![Список активних topics](docs/etap_5(1).png)
-![Список активних topics](docs/etap_5(2).png)
-![Список активних topics](docs/etap_5(3).png)
+![Список активних topics](docs/etap_5 (1).png)
+![Список активних topics](docs/etap_5 (2).png)
+![Список активних topics](docs/etap_5 (3).png)
 
 
 
